@@ -1,0 +1,9 @@
+# Núcleo científico
+numpy>=1.23,<3.0
+pandas>=2.1,<3.0
+
+# Gráficos (o script salva PNG; não exige GUI)
+matplotlib>=3.8,<4.0
+
+# Estatística não-paramétrica (Mann-Whitney U) — recomendado
+scipy>=1.11,<2.0
